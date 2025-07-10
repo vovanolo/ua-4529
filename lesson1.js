@@ -109,8 +109,8 @@
 
 // operators
 
-let a = 10;
-let b = 4;
+// let a = 10;
+// let b = 4;
 
 // console.log(a / b); 
 
