@@ -204,3 +204,5 @@
 // console.log(user1.#salary); // undefined, private property is not accessible;
 
 // getter and setter
+
+
