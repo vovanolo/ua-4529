@@ -42,7 +42,7 @@
 // }
 
 
-const title = document.querySelector("#title");
+// const title = document.querySelector("#title");
 
 // title.onclick = function(){
 //     console.log('click click');
@@ -103,9 +103,9 @@ const title = document.querySelector("#title");
 //     // title.classList.add("set-style");
 // })
 
-const myform = document.forms.register;
+// const myform = document.forms.register;
 
-const greeting = document.querySelector(".greeting");
+// const greeting = document.querySelector(".greeting");
 // console.log(greeting);
 
 
@@ -133,3 +133,5 @@ const greeting = document.querySelector(".greeting");
 
 
 // })
+
+
